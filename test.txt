@@ -1,2 +1,2 @@
 this is the first git
-version0.2
+change user profile
