@@ -1,7 +1,3 @@
 this is the first git
-<<<<<<< HEAD
-change user profile
-=======
 version0.2
->>>>>>> 6a24db484acea39a816c93b060e8d8f6f840d265
-this is merge1
+add one
